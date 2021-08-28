@@ -28,7 +28,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
-
+0.0.0.0 superad.cc
+0.0.0.0 ads.superad.cc
 
 # End of custom host records.
 # Start StevenBlack
@@ -97195,9 +97196,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zqtk.net
 0.0.0.0 zukxd6fkxqn.com
 
-
-
-0.0.0.0 superad.cc
 # End yoyo.org
 
 # blacklist
