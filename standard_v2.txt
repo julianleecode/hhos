@@ -31,6 +31,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 superad.cc
 0.0.0.0 ads.superad.cc
 0.0.0.0 anicdn.com
+0.0.0.0 sta.anicdn.com
 
 # End of custom host records.
 # Start StevenBlack
